@@ -1,0 +1,10 @@
+[package]
+name = "rs-reqwest-mini"
+version = "1.0.0"
+edition = "2021"
+description = "reqwest-compatible async HTTP client"
+license = "MIT"
+
+[[bin]]
+name = "rs_reqwest_mini"
+path = "main.rs"
